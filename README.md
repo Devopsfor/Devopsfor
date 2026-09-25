@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm RAJU KAYAL
 
 ### Full-Stack Developer · Technical Trainer · DevOps Learner
 
